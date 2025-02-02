@@ -1,0 +1,4 @@
+openai
+azure-cognitiveservices-speech
+spidev
+RPi.GPIO
