@@ -2,8 +2,8 @@
 In this project, I brough a cheap Big Mouth Billy Bass to life using GPT and Azure Speech services! The fish thinks its an old sea dweller and tells tales about the ol' days. Using the motors previously built into the fish, it can flap one one axis and also open its mouth to speak.
 
 <p style="display: flex;">
-  <img src="assets/fish_front.jpeg" width="50%" />
-  <img src="assets/fish_back.jpeg" width="50%" /> 
+  <img src="assets/fish_1.jpeg" width="50%" />
+  <img src="assets/fish_2.jpeg" width="50%" /> 
 </p>
 
 
