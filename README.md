@@ -1,8 +1,11 @@
 # AI fish character
 In this project, I brough a cheap Big Mouth Billy Bass to life using GPT and Azure Speech services! The fish thinks its an old sea dweller and tells tales about the ol' days. Using the motors previously built into the fish, it can flap one one axis and also open its mouth to speak.
 
-| --- | --- |
-| ![fish_back](assets/fish_back.jpeg) | ![fish_front](assets/fish_front.jpeg) |
+<p>
+  <img src="assets/fish_front.jpeg" width="50%" />
+  <img src="assets/fish_back.jpeg" width="50%" /> 
+</p>
+
 
 ## Hardware
 * Ye olde billy bass fish and its internal mechanics including 2 basic DC motors
